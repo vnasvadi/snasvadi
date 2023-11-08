@@ -1,0 +1,7 @@
+# IDEs
+.idea/
+# OSX
+**/.DS_Store
+
+# Hugo
+.hugo_build.lock
